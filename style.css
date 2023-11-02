@@ -1,0 +1,17 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Open+Sans&display=swap');
+</style>
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.menubar{
+    height: 8vh;
+    width: 1400px;
+    background-color:rgb(248, 205, 14);
+    margin: 15px;;
+    border-radius: 50px;
+    list-style-type: none;
+    margin: 5px;
+    display:block;
+}
